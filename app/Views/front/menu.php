@@ -40,13 +40,14 @@
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Productos</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                          <li><a class="nav-link" href="<?php echo base_url('front/comercializacion')?>">Pipas</a></li>
-                          <li><a class="nav-link" href="<?php echo base_url('front/comercializacion')?>">Tabacos</a></li>
-                          <li><a class="nav-link" href="<?php echo base_url('front/comercializacion')?>">Encedores</a></li>
-                          <li><a class="nav-link" href="<?php echo base_url('front/comercializacion')?>">Filtros</a></li>
-                          <li><a class="nav-link" href="<?php echo base_url('front/comercializacion')?>">Corta Cigarros</a></li>
-                          <li><a class="nav-link" href="<?php echo base_url('front/comercializacion')?>">Ceniceros</a></li>
-                          <li><a class="nav-link" href="<?php echo base_url('front/comercializacion')?>">Papelillos</a></li>
+                          <li><a class="nav-link" href="<?php echo base_url('front/pipas')?>">Pipas</a></li>
+                          <li><a class="nav-link" href="<?php echo base_url('front/tabacos')?>">Tabacos</a></li>
+                          <li><a class="nav-link" href="<?php echo base_url('front/encendedores')?>">Encendedores</a></li>
+                          <li><a class="nav-link" href="<?php echo base_url('front/filtros')?>">Filtros</a></li>
+                          <li><a class="nav-link" href="<?php echo base_url('front/cortacigarros')?>">Corta Cigarros</a></li>
+                          <li><a class="nav-link" href="<?php echo base_url('front/ceniceros')?>">Ceniceros</a></li>
+                          <li><a class="nav-link" href="<?php echo base_url('front/papelillos')?>">Papelillos</a></li>
+                          <li><a class="nav-link" href="<?php echo base_url('front/abanos')?>">Abanos</a></li>
                         </ul>
                     </li>
                 </ul>

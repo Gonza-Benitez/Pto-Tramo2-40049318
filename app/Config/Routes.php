@@ -12,7 +12,14 @@ $routes->get('front/contacto', 'Home::acerca_de');
 $routes->get('front/consulta', 'Home::consulta');
 $routes->get('front/comercializacion','Home::comercio');
 $routes->get('front/terminos_condiciones','Home::terminos');
-$routes->get('front/producto', 'Home::productos');
+$routes->get('front/pipas', 'Home::pipas');
+$routes->get('front/tabacos', 'Home::tabacos');
+$routes->get('front/abanos', 'Home::abanos');
+$routes->get('front/filtros', 'Home::filtros');
+$routes->get('front/cortacigarros', 'Home::cigarros');
+$routes->get('front/papelillos', 'Home::papelillos');
+$routes->get('front/ceniceros', 'Home::ceni');
+$routes->get('front/encendedores', 'Home::encend');
 
 //['filter' => 'auth']
 /*

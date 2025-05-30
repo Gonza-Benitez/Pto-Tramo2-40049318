@@ -35,10 +35,10 @@ class Home extends BaseController
         echo view('front/footer');
     }
     
-    public function productos()
+    public function pipas()
     {
         echo view('front/menu');
-        echo view('front/producto');
+        echo view('front/pipas');
         echo view('front/footer');
     }
    
@@ -53,6 +53,55 @@ class Home extends BaseController
     {
         echo view('front/menu');
         echo view('front/consulta');
+        echo view('front/footer');
+    }
+
+    public function tabacos()
+    {
+        echo view('front/menu');
+        echo view('front/tabacos');
+        echo view('front/footer');
+    }
+
+    public function filtros()
+    {
+        echo view('front/menu');
+        echo view('front/filtros');
+        echo view('front/footer');
+    }
+
+    public function papelillos()
+    {
+        echo view('front/menu');
+        echo view('front/papelillos');
+        echo view('front/footer');
+    }
+
+    public function cigarros()
+    {
+        echo view('front/menu');
+        echo view('front/cortacigarros');
+        echo view('front/footer');
+    }
+
+    public function ceni()
+    {
+        echo view('front/menu');
+        echo view('front/ceniceros');
+        echo view('front/footer');
+    }
+
+    public function encend()
+    {
+        echo view('front/menu');
+        echo view('front/encendedores');
+        echo view('front/footer');
+    }
+
+    public function abanos()
+    {
+        echo view('front/menu');
+        echo view('front/abanos');
         echo view('front/footer');
     }
 

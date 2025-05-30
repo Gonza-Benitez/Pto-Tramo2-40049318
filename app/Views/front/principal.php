@@ -76,7 +76,7 @@
     <div class="row">
       <div class="col-md-4">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/porsche.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
+          <img src="../assets/img/Pipas/porsche.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
           <div class="card-body">
             <h5 class="card-title text-center">Pipas</h5>
           </div>
@@ -84,15 +84,15 @@
       </div>
       <div class="col-md-4">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/zippo28432.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
+          <img src="../assets/img/Encendedores/zippo28432.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
           <div class="card-body">
-            <h5 class="card-title text-center">Encededores</h5>
+            <h5 class="card-title text-center">Encendedores</h5>
           </div>
         </div>
       </div>
       <div class="col-md-4">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/corta-cigarro-doble-hoja-negro.jpg.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
+          <img src="../assets/img/CortaCigarros/corta-cigarro-doble-hoja-negro.jpg.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
           <div class="card-body">
             <h5 class="card-title text-center">Corta Cigarros</h5>
           </div>
@@ -100,7 +100,7 @@
       </div>
       <div class="col-md-4">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/argento-vainilla.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Tabacos/argento-vainilla.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
           <div class="card-body">
             <h5 class="card-title text-center">Tabacos</h5>
           </div>
@@ -108,7 +108,7 @@
       </div>
       <div class="col-md-4">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/gizeh-metalica.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
+          <img src="../assets/img/Filtros/gizeh-slim.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
           <div class="card-body">
             <h5 class="card-title text-center">Filtros</h5>
           </div>
@@ -116,12 +116,14 @@
       </div>
       <div class="col-md-4">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/cenicerobulldogmetal.jpg.webp" class="card-img-top custom-card-img" alt="Ceniceros">
+          <img src="../assets/img/Ceniceros/cenicerobulldogmetal.jpg.webp" class="card-img-top custom-card-img" alt="Ceniceros">
           <div class="card-body">
             <h5 class="card-title text-center">Ceniceros</h5>
           </div>
         </div>
       </div>
     </div>
+    <br>
+<br>
 </section>
 

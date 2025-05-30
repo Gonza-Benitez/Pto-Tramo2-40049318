@@ -46,42 +46,42 @@
     <div class="row">
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/porsche.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
+          <img src="../assets/img/Pipas/porsche.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/ascorti.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
+          <img src="../assets/img/Pipas/ascorti.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/ascortia.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
+          <img src="../assets/img/Pipas/ascortia.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/al-pascia-curvy.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
+          <img src="../assets/img/Pipas/al-pascia-curvy.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/amorelli.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
+          <img src="../assets/img/Pipas/amorelli.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/ascortie.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
+          <img src="../assets/img/Pipas/ascortie.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/bjarne.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
+          <img src="../assets/img/Pipas/bjarne.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/p90300411.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
+          <img src="../assets/img/Pipas/p90300411.jpg.webp" class="card-img-top custom-card-img" alt="Pipas">
         </div>
       </div>
     </div>
@@ -100,102 +100,96 @@
   <div class="row">
   <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/achalay-menta.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Tabacos/achalay-menta.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/achalay-vainilla.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Tabacos/achalay-vainilla.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/achalay.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Tabacos/achalay.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/argento-manzana.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Tabacos/argento-manzana.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/argento-negro.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Tabacos/argento-negro.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/argento-vainilla.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Tabacos/argento-vainilla.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/lh-30-natural.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Tabacos/lh-30-natural.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/lh-30-vainilla.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Tabacos/lh-30-vainilla.jpg.webp" class="card-img-top custom-card-img" alt="Tabacos">
+        </div>
+      </div>
+  </div>
+</section>
+
+<section class="container">
+  <div class="container mt-4">
+    <div class="row justify-content-right">
+      <div class="col-md-12">
+        <h2 class="text-center">Abanos</h2>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <div class="row">
+        <div class="col-md-3 col-lg-3 col-sm-12">
+        <div class="card mb-4 custom-card">
+          <img src="../assets/img/Abanos/meharis_java_cigars.webp" class="card-img-top custom-card-img" alt="Abanos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/candlelightcoronasumatrax.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Abanos/meharis_red_orient_cigars.webp" class="card-img-top custom-card-img" alt="Abanos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/capitol_gala-cajax10.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Abanos/capuchino.webp" class="card-img-top custom-card-img" alt="Abanos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/meharis-brasil.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Abanos/candlelightcoronasumatrax.webp" class="card-img-top custom-card-img" alt="Abanos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/casa-turrent-1880-colorado-doble.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Abanos/capitol_gala-cajax10.webp" class="card-img-top custom-card-img" alt="Abanos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/meharis_java_cigars.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Abanos/vainilla.webp" class="card-img-top custom-card-img" alt="Abanos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/meharis_red_orient_cigars.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Abanos/meharis-brasil.webp" class="card-img-top custom-card-img" alt="Abanos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/capuchino.webp" class="card-img-top custom-card-img" alt="Tabacos">
-        </div>
-      </div>
-      <div class="col-md-3 col-lg-3 col-sm-12">
-        <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/chocolate.webp" class="card-img-top custom-card-img" alt="Tabacos">
-        </div>
-      </div>
-      <div class="col-md-3 col-lg-3 col-sm-12">
-        <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/java.webp" class="card-img-top custom-card-img" alt="Tabacos">
-        </div>
-      </div>
-      <div class="col-md-3 col-lg-3 col-sm-12">
-        <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/vainilla.webp" class="card-img-top custom-card-img" alt="Tabacos">
-        </div>
-      </div>
-      <div class="col-md-3 col-lg-3 col-sm-12">
-        <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/cigarros-pacific-classic-10u.webp" class="card-img-top custom-card-img" alt="Tabacos">
-        </div>
-      </div>
-      <div class="col-md-3 col-lg-3 col-sm-12">
-        <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAbanos/cigarros-pacific-red.webp" class="card-img-top custom-card-img" alt="Tabacos">
+          <img src="../assets/img/Abanos/casa-turrent-1880-colorado-doble.webp" class="card-img-top custom-card-img" alt="Abanos">
         </div>
       </div>
   </div>
@@ -214,42 +208,42 @@
   <div class="row">
   <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/zippo2051.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
+          <img src="../assets/img/Encendedores/zippo2051.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/zippo28432.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
+          <img src="../assets/img/Encendedores/zippo28432.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/zippo49193glow.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
+          <img src="../assets/img/Encendedores/zippo49193glow.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/encendedores-magiclik-vip.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
+          <img src="../assets/img/Encendedores/encendedores-magiclik-vip.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/encendedormagic.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
+          <img src="../assets/img/Encendedores/encendedormagic.jpg.webp" class="card-img-top custom-card-img" alt="Encendedores">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/img_20210304_1644551-9c63127615445aa33c16286188582145-320-0.webp" class="card-img-top custom-card-img" alt="Encendedores">
+          <img src="../assets/img/Encendedores/img_20210304_1644551-9c63127615445aa33c16286188582145-320-0.webp" class="card-img-top custom-card-img" alt="Encendedores">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/1227-home_default.jpg" class="card-img-top custom-card-img" alt="Encendedores">
+          <img src="../assets/img/Encendedores/1227-home_default.jpg" class="card-img-top custom-card-img" alt="Encendedores">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/1238-home_default.jpg" class="card-img-top custom-card-img" alt="Encendedores">
+          <img src="../assets/img/Encendedores/1238-home_default.jpg" class="card-img-top custom-card-img" alt="Encendedores">
         </div>
       </div>
   </div>
@@ -268,42 +262,42 @@
   <div class="row">
   <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/gizeh-extra-slim.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
+          <img src="../assets/img/Filtros/gizeh-extra-slim.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/2033-home_default.jpg" class="card-img-top custom-card-img" alt="Filtros">
+          <img src="../assets/img/Filtros/2033-home_default.jpg" class="card-img-top custom-card-img" alt="Filtros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/libellaextraslim.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
+          <img src="../assets/img/Filtros/libellaextraslim.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/gizeh-slim.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
+          <img src="../assets/img/Filtros/gizeh-slim.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/libella-regular.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
+          <img src="../assets/img/Filtros/libella-regular.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/libella-slim.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
+          <img src="../assets/img/Filtros/libella-slim.jpg.webp" class="card-img-top custom-card-img" alt="Filtros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/2029-home_default.jpg" class="card-img-top custom-card-img" alt="Filtros">
+          <img src="../assets/img/Filtros/2029-home_default.jpg" class="card-img-top custom-card-img" alt="Filtros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/316-home_default.jpg" class="card-img-top custom-card-img" alt="Filtros">
+          <img src="../assets/img/Filtros/316-home_default.jpg" class="card-img-top custom-card-img" alt="Filtros">
         </div>
       </div>
   </div>
@@ -322,42 +316,42 @@
   <div class="row">
   <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/corta-cigarro-doble-hoja-amarillo.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
+          <img src="../assets/img/CortaCigarros/corta-cigarro-doble-hoja-amarillo.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/corta-cigarro-doble-hoja-negro.jpg.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
+          <img src="../assets/img/CortaCigarros/corta-cigarro-doble-hoja-negro.jpg.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/corta-cigarro-doble-hoja-rojo-negro.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
+          <img src="../assets/img/CortaCigarros/corta-cigarro-doble-hoja-rojo-negro.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/corta-cigarro-doble-hojasonligen.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
+          <img src="../assets/img/CortaCigarros/corta-cigarro-doble-hojasonligen.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/corta-cigarros-doble-hoja-acero-esmerilado-y-madera.jpg.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
+          <img src="../assets/img/CortaCigarros/corta-cigarros-doble-hoja-acero-esmerilado-y-madera.jpg.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/corta-cigarros-doble-hoja-acero-faro.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
+          <img src="../assets/img/CortaCigarros/corta-cigarros-doble-hoja-acero-faro.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/corta-cigarros-doble-hoja-acero.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
+          <img src="../assets/img/CortaCigarros/corta-cigarros-doble-hoja-acero.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/sacabocado.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
+          <img src="../assets/img/CortaCigarros/sacabocado.webp" class="card-img-top custom-card-img" alt="Corta Cigarros">
         </div>
       </div>
   </div>
@@ -376,22 +370,22 @@
   <div class="row">
   <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/cenicerobulldogmetal.jpg.webp" class="card-img-top custom-card-img" alt="Ceniceros">
+          <img src="../assets/img/Ceniceros/cenicerobulldogmetal.jpg.webp" class="card-img-top custom-card-img" alt="Ceniceros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/cenicerofarovidriomateambarcuadra.webp" class="card-img-top custom-card-img" alt="Ceniceros">
+          <img src="../assets/img/Ceniceros/cenicerofarovidriomateambarcuadra.webp" class="card-img-top custom-card-img" alt="Ceniceros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/cenicerofarovidriomateambarredondo.webp" class="card-img-top custom-card-img" alt="Ceniceros">
+          <img src="../assets/img/Ceniceros/cenicerofarovidriomateambarredondo.webp" class="card-img-top custom-card-img" alt="Ceniceros">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/cenicerosquadafumcuadradogris.webp" class="card-img-top custom-card-img" alt="Ceniceros">
+          <img src="../assets/img/Ceniceros/cenicerosquadafumcuadradogris.webp" class="card-img-top custom-card-img" alt="Ceniceros">
         </div>
       </div>
   </div>
@@ -410,44 +404,46 @@
   <div class="row">
   <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/papel-abadie-small.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
+          <img src="../assets/img/Papelillos/papel-abadie-small.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/papel-libella-rolling.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
+          <img src="../assets/img/Papelillos/papel-libella-rolling.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/papel-ocb-negro-premium.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
+          <img src="../assets/img/Papelillos/papel-ocb-negro-premium.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/papel-ocb-premium-organico.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
+          <img src="../assets/img/Papelillos/papel-ocb-premium-organico.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/papelmantrachocolate.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
+          <img src="../assets/img/Papelillos/papelmantrachocolate.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/papelmantrauva.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
+          <img src="../assets/img/Papelillos/papelmantrauva.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/abadiemedium1141-55c72434c7a020c79b16263778137690-320-0.webp" class="card-img-top custom-card-img" alt="Papelillos">
+          <img src="../assets/img/Papelillos/abadiemedium1141-55c72434c7a020c79b16263778137690-320-0.webp" class="card-img-top custom-card-img" alt="Papelillos">
         </div>
       </div>
       <div class="col-md-3 col-lg-3 col-sm-12">
         <div class="card mb-4 custom-card">
-          <img src="../assets/img/imgAccesorios/libella-051.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
+          <img src="../assets/img/Papelillos/libella-051.jpg.webp" class="card-img-top custom-card-img" alt="Papelillos">
         </div>
       </div>
   </div>
 </div>
+<br>
+<br>
 </section>
