@@ -20,6 +20,8 @@ $routes->get('front/cortacigarros', 'Home::cigarros');
 $routes->get('front/papelillos', 'Home::papelillos');
 $routes->get('front/ceniceros', 'Home::ceni');
 $routes->get('front/encendedores', 'Home::encend');
+$routes->get('front/login', 'Home::login');
+$routes->get('front/registro', 'Home::registro');
 
 //['filter' => 'auth']
 /*

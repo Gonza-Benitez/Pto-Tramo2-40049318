@@ -50,12 +50,26 @@
                           <li><a class="nav-link" href="<?php echo base_url('front/abanos')?>">Abanos</a></li>
                         </ul>
                     </li>
+                    
+                    <div class="dropdown">
+                      <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <img src="../assets/img/iconos/usuario2.png" alt="#" width="30" height="30" class="d-inline-block align-text-top">
+                      </a>
+                      <ul class="dropdown-menu">
+                        <li class="nav-item">
+                          <a class="nav-link" href="<?php echo base_url('front/login')?>">Login</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="<?php echo base_url('front/registro')?>">Registro</a>
+                        </li>
+                      </ul>
+                    </div>        
                 </ul>
+                <form class="d-flex" role="search">
+                  <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search"/>
+                  <button class="btn btn-outline-dark" type="submit">Buscar</button>
+                </form>
               </div>
             </div>
-          </ul>
-        </li>
-      </div>
-    </div>
-</nav>
-</header> 
+          </nav>
+        </header> 
